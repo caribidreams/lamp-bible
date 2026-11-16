@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-# Lamp: KJV Bible Study — Privacy Policy
+# Privacy Policy
 
 Effective 16 November 2026
 

@@ -2,7 +2,7 @@
 title: Support
 ---
 
-# Lamp: KJV Bible Study — Support
+# Support
 
 Lamp is a King James Bible study app for iPhone, iPad and Mac.
 
