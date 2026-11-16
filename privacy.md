@@ -83,7 +83,7 @@ safety scores for up to seven). See
 Anthropic and Cloudflare may process requests in the United States and in other countries
 where they operate.
 
-You can turn Cloud answers off at any time in Library, Account and Sync. Answers are then
+You can turn Cloud answers off at any time in My Hub, under Account and Sync. Answers are then
 written on your device again.
 
 ## When you write to us
@@ -108,7 +108,7 @@ Lamp does not ask for or collect personal information from anyone, including chi
 
 - **Use Lamp without signing in.** Everything then stays on the device.
 - **Turn Cloud answers off**, or never turn it on.
-- **Sign out** in Library, Account and Sync. To stop using Sign in with Apple for Lamp
+- **Sign out** in My Hub, under Account and Sync. To stop using Sign in with Apple for Lamp
   altogether, go to Settings, your name, Sign in with Apple.
 - **Delete what you have made.** Deleting Lamp removes it from the device. To remove it from
   iCloud as well, go to Settings, your name, iCloud, and manage storage for Lamp.
